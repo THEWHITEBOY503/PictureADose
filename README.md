@@ -11,6 +11,6 @@ In summary, Picture A Dose will use Computer Vision and an AI model trained off 
 
 
 ## Progress updates
-### July 16th: Uploading the app flow plan.
-### July 15th: Picture A Dose project began development.
-### June 28th: Planning for Picture A Dose begins. 
+- July 16th: Uploading the app flow plan.
+- July 15th: Picture A Dose project began development.
+- June 28th: Planning for Picture A Dose begins. 
